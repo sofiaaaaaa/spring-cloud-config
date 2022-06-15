@@ -3,7 +3,7 @@ token:
   secret: user_token_prod
 
 gateway:
-  ip: 192.168.0.44
+  ip: 127.0.0.1
 
 # git remote 경로 추가
 # git remote -v
