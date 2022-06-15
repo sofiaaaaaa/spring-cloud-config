@@ -1,0 +1,10 @@
+token:
+  expiration_time: 86400000 #하루
+  secret: user_token_prod
+
+gateway:
+  ip: 192.168.0.44
+
+# git remote 경로 추가
+# git remote -v
+# git remote add origin https://github.com/sofiaaaaaa/spring-cloud-config.git
